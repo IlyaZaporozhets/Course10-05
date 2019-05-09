@@ -1,0 +1,10 @@
+D:\CourseWork\Course_test\Course_test\bin\Debug\Course_test.exe.config
+D:\CourseWork\Course_test\Course_test\bin\Debug\Course_test.exe
+D:\CourseWork\Course_test\Course_test\bin\Debug\Course_test.pdb
+D:\CourseWork\Course_test\Course_test\obj\Debug\Course_test.csprojResolveAssemblyReference.cache
+D:\CourseWork\Course_test\Course_test\obj\Debug\Course_test.Properties.Resources.resources
+D:\CourseWork\Course_test\Course_test\obj\Debug\Course_test.csproj.GenerateResource.Cache
+D:\CourseWork\Course_test\Course_test\obj\Debug\Course_test.exe
+D:\CourseWork\Course_test\Course_test\obj\Debug\Course_test.pdb
+D:\CourseWork\Course_test\Course_test\obj\Debug\Course_test.Form1.resources
+D:\CourseWork\Course_test\Course_test\obj\Debug\Course_test.MainPanel.resources
